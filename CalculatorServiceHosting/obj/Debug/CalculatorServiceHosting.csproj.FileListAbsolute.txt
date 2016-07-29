@@ -1,0 +1,10 @@
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\bin\Debug\CalculatorServiceHosting.exe.config
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\bin\Debug\CalculatorServiceHosting.exe
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\bin\Debug\CalculatorServiceHosting.pdb
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\bin\Debug\CalculatorService.dll
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\bin\Debug\Service.Interfaces.dll
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\bin\Debug\CalculatorService.pdb
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\bin\Debug\Service.Interfaces.pdb
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\obj\Debug\CalculatorServiceHosting.csprojResolveAssemblyReference.cache
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\obj\Debug\CalculatorServiceHosting.exe
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorServiceHosting\obj\Debug\CalculatorServiceHosting.pdb

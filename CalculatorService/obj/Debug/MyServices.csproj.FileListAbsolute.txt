@@ -1,0 +1,7 @@
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorService\bin\Debug\CalculatorService.dll
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorService\bin\Debug\CalculatorService.pdb
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorService\bin\Debug\Service.Interfaces.dll
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorService\bin\Debug\Service.Interfaces.pdb
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorService\obj\Debug\MyServices.csprojResolveAssemblyReference.cache
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorService\obj\Debug\CalculatorService.dll
+D:\OneDrive\Ywang\Projects\WcfService1\CalculatorService\obj\Debug\CalculatorService.pdb

@@ -1,0 +1,5 @@
+D:\OneDrive\Ywang\Projects\WcfService1\Service.Interfaces\bin\Debug\Service.Interfaces.dll
+D:\OneDrive\Ywang\Projects\WcfService1\Service.Interfaces\bin\Debug\Service.Interfaces.pdb
+D:\OneDrive\Ywang\Projects\WcfService1\Service.Interfaces\obj\Debug\Service.Interfaces.csprojResolveAssemblyReference.cache
+D:\OneDrive\Ywang\Projects\WcfService1\Service.Interfaces\obj\Debug\Service.Interfaces.dll
+D:\OneDrive\Ywang\Projects\WcfService1\Service.Interfaces\obj\Debug\Service.Interfaces.pdb
